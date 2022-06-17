@@ -27,7 +27,7 @@ _This section only accounts for work done post-career change._
 <br><br>
 
 **Student** @ [IIM Kashipur](http://www.iimkashipur.ac.in/) _(July 2022 - Present)_ <br>
-I'm Enrolled for the Flagship couurse of MBA at IIM Kashipur.
+I'm Enrolled for the Flagship course of MBA at IIM Kashipur.
   - The new experience at IIM will get added here.
   - Keep Reading for further updates
 
