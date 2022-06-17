@@ -51,7 +51,7 @@ I'm fond off capturing beautiful moments.
 ## 💬 Languages
 
 **Hindi**: Native <br>
-**English**: A2.2
+**English**: Professional Working Proficiency
 <br><br>
 
 ## 👩🏼‍🎓 Education
