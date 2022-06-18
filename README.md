@@ -2,7 +2,7 @@
 
 _MBA Student at IIM Kashipur and DevOps engineer based in Bengaluru, India_ <br>
 
-[Email](mailto:sinha.ankit58@gmail.com) / [LinkedIn](https://www.linkedin.com/in/ankit-sinha-aaa1099a/) / [GitHub](https://github.com/ankiitsiinha/) / [Twitter](https://twitter.com/ankitsinha_/)
+[Email](mailto:sinha.ankit58@gmail.com) / [LinkedIn](www.linkedin.com/in/ankiitsiinha/) / [GitHub](https://github.com/ankiitsiinha/) / [Twitter](https://twitter.com/ankitsinha_/)
 
 ## 👩🏼‍💻 Engineering Experience
 
