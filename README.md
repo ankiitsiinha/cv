@@ -10,14 +10,15 @@ _MBA Student at IIM Kashipur and DevOps engineer based in Bengaluru, India_ <br>
 Platform as a service Automation Operations.
   - Developed python scripts to automate PaaS services and few scripts to eradicate the manual work.
   - Automated the provisioning of Virtual machines using Ansible playbooks and shell scripts.
-  - **_Technologies used:_** Bash, Python, Ansible, Unix, Rundeck, Payara5, HTTPD.
+  - **_Technologies used:_** Bash, Python, Ansible, Unix.
 <br><br>
 
 **Cloud Architect** @ [ACCENTURE](https://www.accenture.com/) _(Jan 2021 - June 2022)_ <br>
 Designed safe, reliable and economic architecture for applications to be hosted on AWS Cloud.
   - Delivered the infrastructure using the AWS Elastic Kubernetes Service to host a containerized version of applications while ensuring a highly available and fault-tolerant environment.
   - Successfully created CI/CD Jenkins pipeline to automate the creation of docker images for future release of applications.
-  - Leveraged AWS platform services like EC2, S3, RDS, EKS, ECS, Elasticsearch and integrated them while containerizing the application
+  - Leveraged AWS platform services like EC2, S3, RDS, EKS, ECS, Elasticsearch and integrated them while containerizing the application.
+  - Migrated data using AWS Database migration service & AWS Transfer Family.
   - **_Technologies used:_** Docker, Jenkins, Kubernetes, Terraform, AWS EKS, AWS ECS.
 <br><br>
     
@@ -29,14 +30,19 @@ _This section only accounts for work done post-career change._
 **Student** @ [IIM Kashipur](http://www.iimkashipur.ac.in/) _(July 2022 - Present)_ <br>
 I'm Enrolled for the Flagship course of MBA at IIM Kashipur.
   - The new experience at IIM will get added here.
-  - Keep Reading for further updates
+<br><br>
+
+## ⚡ Strengths 
+  - Ability to Bounce back.
+  - Eagerness to learn.
+  - Ability to not be driven by Habits.
 
 ## 📌 On The Side
 
 **Photography Enthusiast**  _(Always)_ <br>
 I'm fond off capturing beautiful moments.
-  - Winner of TATA CoverShot Contest _(Mar 2015)_ 
-  - Participated and won Various Inter College Events.
+  - Winner of TATA CoverShot contest _(Mar 2015)_ 
+  - Participated and won various Inter college events.
   <br><br>
   
 ## 🏆 Certifications
