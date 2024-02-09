@@ -8,16 +8,16 @@ _MBA Student at IIM Kashipur and DevOps engineer based in Bengaluru, India_ <br>
 
 **DevOps Engineer** @ [ACCENTURE](https://www.accenture.com/) _(July 2019 - Dec 2020)_ <br>
 Platform as a service Automation Operations.
-  - Developed python scripts to automate PaaS services and few scripts to eradicate the manual work.
+  - Developed Python scripts to automate PaaS services and a few scripts to eradicate the manual work.
   - Automated the provisioning of Virtual machines using Ansible playbooks and shell scripts.
   - **_Technologies used:_** Bash, Python, Ansible, Unix.
 <br><br>
 
 **Cloud Architect** @ [ACCENTURE](https://www.accenture.com/) _(Jan 2021 - June 2022)_ <br>
-Designed safe, reliable and economic architecture for applications to be hosted on AWS Cloud.
+Designed safe, reliable and economical architecture for applications hosted on AWS Cloud.
   - Delivered the infrastructure using the AWS Elastic Kubernetes Service to host a containerized version of applications while ensuring a highly available and fault-tolerant environment.
   - Successfully created CI/CD Jenkins pipeline to automate the creation of docker images for future release of applications.
-  - Leveraged AWS platform services like EC2, S3, RDS, EKS, ECS, Elasticsearch and integrated them while containerizing the application.
+  - Leveraged AWS platform services like EC2, S3, RDS, EKS, ECS, and Elasticsearch and integrated them while containerizing the application.
   - Migrated data using AWS Database migration service & AWS Transfer Family.
   - **_Technologies used:_** Docker, Jenkins, Kubernetes, Terraform, AWS EKS, AWS ECS.
 <br><br>
@@ -27,9 +27,16 @@ Designed safe, reliable and economic architecture for applications to be hosted 
 _This section only accounts for work done post-career change._
 <br><br>
 
-**Student** @ [IIM Kashipur](http://www.iimkashipur.ac.in/) _(July 2022 - Present)_ <br>
-I'm Enrolled for the Flagship course of MBA at IIM Kashipur.
-  - The new experience at IIM will get added here.
+**Student** @ [IIM Kashipur](http://www.iimkashipur.ac.in/) _(July 2022 - Mar 2024)_ <br>
+I'm Enrolled for the Flagship course of MBA at IIM Kashipur.<br><br>
+**Management Intern** @ [MAQ Software](https://maqsoftware.com) _(Apr 2023 - June 2023)_ <br> 
+  - Spearheaded a cross-functional team for the launch of the Whiz tool, fostering collaboration among development and design teams.
+  - Proactively identified potential Whiz tool risks through testing, mitigating issues post-launch & saving 10% in development cost.
+  - Coordinated 50+ stakeholder meetings, ensuring proactive follow-up on the action items, and maintaining strong relationships.
+  - Monitored the project performance, achieving 100% on-time delivery, and effectively communicated progress to stakeholders.
+  - Created a comprehensive and structured onboarding schedule to facilitate a seamless transition for the new team members. 
+  - Analysed the business data to sharpen visualization skills, effectively transforming raw data into actionable business insights.
+  - **_Technologies used:_** Power BI, MS Excel, Azure DevOps, SQL.
 <br><br>
 
 ## ⚡ Strengths 
@@ -40,10 +47,23 @@ I'm Enrolled for the Flagship course of MBA at IIM Kashipur.
 ## 📌 On The Side
 
 **Photography Enthusiast**  _(Always)_ <br>
-I'm fond off capturing beautiful moments.
+I'm fond of capturing beautiful moments.
   - Winner of TATA CoverShot contest _(Mar 2015)_ 
   - Participated and won various Inter college events.
   <br><br>
+
+**Executive Member – Student Council, IIM Kashipur 2023 - 2024**
+Proud to be part of the highest governing student body of the Institute
+  - Collaborated closely with the Director, Dean, Administration, Faculties, and Students to ensure smooth institute operations
+  - Spearheaded diverse event planning, accurately forecasting procurements, and effectively coordinating with over 40+ student bodies and 800+ diverse students, successfully implementing value-added initiatives and efficiently managing college resources
+
+**Secretary - Infrastructure & IT Committee, IIM Kashipur 2022 - 2024**
+Led the team to enhance the Infrastructural facilities in the college
+  - Facilitating infrastructure services (hostel, cafes, gymnasium) as liaison between 800+ students and the college administration
+  - Led a team of 8 members in the development of "Infinity," an application encompassing various features such as a Notice Board, Gallery, Events, Time Table, and Mess Menu benefiting a wide user base of 800+ students for easy access to campus information
+  - Strategizing, planning & facilitating operations among various student bodies to ensure smooth & efficient execution of event
+
+
   
 ## 🏆 Certifications
 
