@@ -52,12 +52,12 @@ I'm fond of capturing beautiful moments.
   - Participated and won various Inter college events.
   <br><br>
 
-**Executive Member – Student Council, IIM Kashipur** _(2023 - 2024)- <br>
+**Executive Member – Student Council, IIM Kashipur** _(2023 - 2024)_ <br>
 Proud to be part of the highest governing student body of the Institute
   - Collaborated closely with the Director, Dean, Administration, Faculties, and Students to ensure smooth institute operations
   - Spearheaded diverse event planning, accurately forecasting procurements, and effectively coordinating with over 40+ student bodies and 800+ diverse students, successfully implementing value-added initiatives and efficiently managing college resources
 
-**Secretary - Infrastructure & IT Committee, IIM Kashipur** _(2022 - 2024)- <br>
+**Secretary - Infrastructure & IT Committee, IIM Kashipur** _(2022 - 2024)_ <br>
 Led the team to enhance the Infrastructural facilities in the college
   - Facilitating infrastructure services (hostel, cafes, gymnasium) as liaison between 800+ students and the college administration
   - Led a team of 8 members in the development of "Infinity," an application encompassing various features such as a Notice Board, Gallery, Events, Time Table, and Mess Menu benefiting a wide user base of 800+ students for easy access to campus information
