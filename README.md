@@ -1,6 +1,6 @@
 # Ankit Sinha
 
-_MBA Student (Finance) at IIM Kashipur and DevOps engineer based in Bengaluru, India_ <br>
+_MBA (Finance) Co'24 IIM Kashipur and DevOps engineer based in Bengaluru, India_ <br>
 
 [Email](mailto:ankit.mba22014@iimkashipur.ac.in) / [LinkedIn](www.linkedin.com/in/ankiitsiinha/) / [GitHub](https://github.com/ankiitsiinha/) / [Twitter](https://twitter.com/ankitsinha_/)
 
